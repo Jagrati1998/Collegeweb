@@ -32,7 +32,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary"style="background-color:#4CAF50;">
-        <a class="navbar-brand" href="#"><img src="images/navimage.jpg"alt="navbrand" style="width:80px;height:50px;"> </a>
+        <a class="navbar-brand" href="#">Navbar </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -314,7 +314,7 @@
 			<a href="https://www.w3schools.com"target="_blank"><img src="images/Facebook.png" alt ="kjhhhhhhhhhhhk" >&nbsp</img></a>
 			<a href="https://www.w3schools.com"target="_blank"><img src="images/Linkedin.png" alt ="kjhhhhhhhhhhhk" >&nbsp</</img></a>
 			<a href="https://www.w3schools.com"target="_blank"><img src="images/Twitter.png" alt ="kjhhhhhhhhhhhk" >&nbsp</</img></a>
-			<a href="https://www.w3schools.com"target="_blank"><img src="images/Youtube.png" alt ="kjhhhhhhhhhhhk" >&nbsp</</img></a>
+			<a href="https://www.w3schools.com"target="_blank"><img src="images/youtube.png" alt ="kjhhhhhhhhhhhk" >&nbsp</</img></a>
 			
 
 
