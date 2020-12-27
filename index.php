@@ -180,7 +180,7 @@
                
 
                     <h1 class="heading">Admission Form</h1>
-                    <form action="index.jsp">
+                    <form action="/index.php">
                         <label for="fname">First Name</label>
                         <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
